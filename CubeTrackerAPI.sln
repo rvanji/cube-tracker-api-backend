@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeTrackerAPI", "CubeTrackerAPI\CubeTrackerAPI.csproj", "{26C45960-77C1-4FB0-A20D-CFF2D0D30783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C45960-77C1-4FB0-A20D-CFF2D0D30783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C45960-77C1-4FB0-A20D-CFF2D0D30783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C45960-77C1-4FB0-A20D-CFF2D0D30783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C45960-77C1-4FB0-A20D-CFF2D0D30783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BAEC8C-E85C-455A-B2A7-E8E6BAD66937}
+	EndGlobalSection
+EndGlobal
