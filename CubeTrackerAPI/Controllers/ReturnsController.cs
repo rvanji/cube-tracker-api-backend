@@ -1,11 +1,13 @@
 ﻿using CubeTrackerAPI.DTOs;
 using CubeTrackerAPI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CubeTrackerAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class ReturnsController : ControllerBase
     {
         private readonly CubeService _service;
